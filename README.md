@@ -1,2 +1,2 @@
 # practice
-Practice to upload files from local computer to Github
+Practice uploading files from local computer to Github
